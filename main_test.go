@@ -1,4 +1,4 @@
-package cicdexample
+package main
 
 import (
 	"testing"
